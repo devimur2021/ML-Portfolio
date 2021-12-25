@@ -1,14 +1,6 @@
----
-layout: default
----
-
 **Machine Learning Expedition**
 
-[Link to another page](https://github.com/devimur2021).
-
-![alt text][logo]
-
-[logo]: https://github.com/devimur2021/dinky/blob/master/assets/images/ML.jpg
+Summarized here are the projects which i have taken up as part of my Machine Learning journey.
 
 
 # Project 1 : Lending Club Case Study
@@ -18,6 +10,8 @@ This Case study will be my first official practice problem to solve using Explor
 ![alt text][logo]
 
 [logo]: https://github.com/devimur2021/dinky/blob/master/assets/images/Lending%20Club.jpg
+
+[Link to GitHub](https://github.com/devimur2021)
 
 ## Project 2 : <To Follow Here>
 
