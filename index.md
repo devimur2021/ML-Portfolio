@@ -2,19 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Machine Learning Expedition**
 
-[Link to another page](./another-page.html).
+[Link to another page](https://github.com/devimur2021).
 
-There should be whitespace between paragraphs.
+![alt text][logo]
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[logo]: https://github.com/devimur2021/dinky/blob/master/assets/images/ML.jpg
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Project 1 : Lending Club Case Study
 
-## Header 2
+This Case study will be my first official practice problem to solve using Exploratory Data Analysis
+
+![alt text][logo]
+
+[logo]: https://github.com/devimur2021/dinky/blob/master/assets/images/Lending%20Club.jpg
+
+## Project 2 : <To Follow Here>
 
 > This is a blockquote following a header.
 >
