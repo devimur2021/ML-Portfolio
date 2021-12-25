@@ -7,9 +7,8 @@ Summarized here are the projects which i have taken up as part of my Machine Lea
 
 This Case study will be my first official practice problem to solve using Exploratory Data Analysis
 
-![alt text][logo]
+<center><img src="images/Lending Club.jpg"/></center>
 
-[logo]: https://github.com/devimur2021/dinky/blob/master/assets/images/Lending%20Club.jpg
 
 [Link to GitHub](https://github.com/devimur2021)
 
