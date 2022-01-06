@@ -5,12 +5,15 @@ Summarized here are the projects which i have taken up as part of my Machine Lea
 
 # Project 1 : Lending Club Case Study
 
-This Case study will be my first official practice problem to solve using Exploratory Data Analysis
+Lending Club Case study is based on the dataset from Fintech Domain. Digital Lending organizations will have to determine the profile of Loan borrower to assess the risk associated. 
 
-<center><img src="assets/images/ML.jpg"/></center>
+Two Types of Risks
+* If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+* If the applicant is not likely to repay the loan, then approving the loan may lead to a financial loss for the company
 
+<center><img src="assets/images/Lending Club.jpg"/></center>
 
-[Link to GitHub](https://github.com/devimur2021)
+[Link to GitHub](https://github.com/devimur2021/Lending-Club)
 
 ## Project 2 : <To Follow Here>
 
