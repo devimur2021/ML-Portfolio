@@ -1,6 +1,9 @@
-**Machine Learning Expedition**
+# Machine Learning Expedition
+
+<img src="assets/images/ML.jpg"/>
 
 Summarized here are the projects which i have taken up as part of my Machine Learning journey.
+
 
 
 # Project 1 : Lending Club Case Study
